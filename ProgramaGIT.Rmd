@@ -14,4 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 R <- 2
 A <- pi*R^2
 
+# Cálculo del longitud de circunferencia
+```{r}
+R <- 2
+C <- R^2
+
 ```
